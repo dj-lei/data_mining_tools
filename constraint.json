@@ -1,0 +1,48 @@
+{
+    "creation_metadata": {
+        "creator": "TDDA 1.0.31",
+        "host": "ml",
+        "local_time": "2020-02-12 11:11:38",
+        "n_records": 2935849,
+        "n_selected": 2935849,
+        "user": "ml",
+        "utc_time": "2020-02-12 03:03:38"
+    },
+    "fields": {
+        "date_block_num": {
+            "max": 33,
+            "max_nulls": 0,
+            "min": 0,
+            "sign": "non-negative",
+            "type": "int"
+        },
+        "item_category_id": {
+            "max": 83,
+            "max_nulls": 0,
+            "min": 0,
+            "sign": "non-negative",
+            "type": "int"
+        },
+        "item_cnt_day": {
+            "max": 2169.0,
+            "max_nulls": 0,
+            "min": 1,
+	    "sign": "non-negative",
+            "type": "int"
+        },
+        "item_id": {
+            "max": 22169,
+            "max_nulls": 0,
+            "min": 0,
+            "sign": "non-negative",
+            "type": "int"
+        },
+        "shop_id": {
+            "max": 59,
+            "max_nulls": 0,
+            "min": 0,
+            "sign": "non-negative",
+            "type": "int"
+        }
+    }
+}
